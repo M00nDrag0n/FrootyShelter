@@ -10,7 +10,7 @@ body {
 }
 
 .column img {
-  
+
   width: 500px;
   height: 400px;
 }
@@ -36,4 +36,26 @@ body {
     background-color: #43376b;
     color: silver;
   }
+}
+
+#Sam {
+  font-size: 19px;
+  font-weight: bold;
+}
+
+#The-Boss {
+  font-size: 19px;
+  font-weight: bold;
+  color: #72b4d4;
+}
+
+#Patsy {
+  font-size: 19px;
+  font-weight: bold;
+  color: silver;
+}
+
+#Frooty {
+  font-size: 19px;
+  font-weight: bold;
 }
